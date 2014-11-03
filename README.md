@@ -1,0 +1,2 @@
+ts-android-library
+==================
